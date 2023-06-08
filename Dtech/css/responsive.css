@@ -1,0 +1,538 @@
+/* ================ tablet device ====================== */
+@media (min-width:1200px) and (max-width: 1399px) {
+
+    .top_about,
+    .bottom_about,
+    .right_about {
+        padding: 20px 28px;
+    }
+
+    .left_about {
+        padding: 20px 26px;
+    }
+
+    .top_about h4,
+    .bottom_about h4,
+    .left_about h4,
+    .right_about h4 {
+        margin-bottom: 10px;
+    }
+
+    .inner_img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .about_img {
+        width: 315px;
+        height: 315px;
+    }
+
+    .section-title h2 {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+}
+
+/* ================ tablet device ====================== */
+@media (min-width:992px) and (max-width: 1199px) {
+
+    .top_about,
+    .bottom_about,
+    .right_about {
+        padding: 20px 28px;
+    }
+
+    .left_about {
+        padding: 20px 34px;
+    }
+
+    .top_about h4,
+    .bottom_about h4,
+    .left_about h4,
+    .right_about h4 {
+        margin-bottom: 10px;
+    }
+
+    .inner_img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .about_img {
+        width: 290px;
+        height: 290px;
+    }
+
+    .ab_right .dot {
+        left: -40px;
+    }
+
+    .ab_left .dot {
+        right: -40px;
+    }
+
+    .section-title h2 {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+
+    .foot21 a {
+        font-size: 14px;
+    }
+
+    .foot1 p {
+        font-size: 14px;
+    }
+
+    .foot_menu ul li a {
+        font-size: 14px;
+    }
+
+    .foot2 h3,
+    .foot3 h3,
+    .foot4 h3 {
+        font-size: 16px;
+    }
+}
+
+/* ================ tablet device ====================== */
+@media (min-width:768px) and (max-width: 991px) {
+    .navbar {
+        border-bottom: 2px solid #ddd;
+        position: static;
+        background: #000;
+    }
+
+    .navbar-toggler-icon i {
+        color: #fff;
+        font-size: 24px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        margin-left: 10px;
+    }
+
+    .navbar-nav .nav-item .nav-link::before {
+        display: none;
+    }
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    /* =============== navbar end =============*/
+
+    #banner .banner .overlay h1 {
+        font-size: 56px;
+        margin-top: 0px;
+    }
+
+    .top_about .shape {
+        display: none;
+    }
+
+    .ab_top .dot {
+        display: none;
+    }
+
+    .ab_left .dot {
+        display: none;
+    }
+
+    .left_about .shape {
+        display: none;
+    }
+
+    .left_about {
+        text-align: center !important;
+    }
+
+    .right_about {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .right_about .shape {
+        display: none;
+    }
+
+    .ab_right .dot {
+        display: none;
+    }
+
+    .ab_bottom .dot {
+        display: none;
+    }
+
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .bottom_about {
+        margin-top: 0;
+    }
+
+    .port_list button {
+        padding: 5px 15px;
+        margin: 0 5px;
+    }
+
+    .testimonial_all_item .testimonial_profile_text {
+        width: 370px;
+        padding: 25px 10px;
+    }
+
+    .testimonial_all_item .testimonial_profile_text p {
+        margin-top: 10px;
+    }
+
+    .contact-form {
+        margin-top: 50px;
+    }
+}
+
+/* ================ mobile device ====================== */
+@media (min-width:576px) and (max-width: 767px) {
+    /* =============== navbar start =============*/
+
+    .navbar {
+        border-bottom: 2px solid #ddd;
+        position: static;
+        background: #000;
+    }
+
+    .navbar-toggler-icon i {
+        color: #fff;
+        font-size: 24px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        margin-left: 10px;
+    }
+
+    .navbar-nav .nav-item .nav-link::before {
+        display: none;
+    }
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    /* =============== navbar end =============*/
+
+    /* =============== All area start =============*/
+    #banner .banner .overlay {
+        padding: 60px 0;
+        text-align: center;
+    }
+
+    #banner .banner .overlay h1 {
+        font-size: 45px;
+        margin-top: 0px;
+    }
+
+    .top_about .shape {
+        display: none;
+    }
+
+    .ab_top .dot {
+        display: none;
+    }
+
+    .ab_left .dot {
+        display: none;
+    }
+
+    .top_about {
+        padding: 25px 16px;
+    }
+
+    .left_about {
+        padding: 25px 16px;
+        text-align: center !important;
+    }
+
+    .left_about .shape {
+        display: none;
+    }
+
+    .right_about {
+        padding: 25px 16px;
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .right_about .shape {
+        display: none;
+    }
+
+    .ab_right .dot {
+        display: none;
+    }
+
+    .ab_bottom .dot {
+        display: none;
+    }
+
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .bottom_about {
+        background: #eeeeee;
+        padding: 25px 16px;
+        margin-top: 0px;
+    }
+
+    .ser_overly {
+        text-align: center;
+    }
+
+    .service_content h4 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .port_list button {
+        margin-bottom: 15px;
+    }
+
+    #counter {
+        margin-bottom: 85px;
+    }
+
+    .count h4 {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        display: none;
+    }
+
+    .bt_top {
+        right: 10px !important;
+    }
+
+    .con_overly {
+        padding: 60px 15px;
+    }
+
+    .contact-form {
+        margin-top: 50px;
+    }
+
+    .footer_top {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .wow {
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+
+    /* =============== All area end =============*/
+}
+
+/* ================ mobile device ====================== */
+@media (max-width: 575.99px) {
+
+    /* =============== navbar start =============*/
+
+    .navbar {
+        border-bottom: 2px solid #ddd;
+        position: static;
+        background: #000;
+    }
+
+    .navbar-toggler-icon i {
+        color: #fff;
+        font-size: 24px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        margin-left: 10px;
+    }
+
+    .navbar-nav .nav-item .nav-link::before {
+        display: none;
+    }
+
+    .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .wow {
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+
+    /* =============== navbar end =============*/
+
+    /* =============== All area start =============*/
+    #banner .banner .overlay {
+        padding: 60px 0;
+        text-align: center;
+    }
+
+    #banner .banner .overlay h1 {
+        font-size: 30px;
+        margin-top: 0px;
+    }
+
+    #banner .banner .overlay p span {
+        display: inline;
+    }
+
+    .common_header h3 {
+        font-size: 34px;
+    }
+
+    .common_header h3 .cmn_span {
+        position: absolute;
+        top: -35px;
+        left: -20px;
+        font-size: 45px;
+    }
+
+    .common_header h3::after {
+        left: 10px;
+        width: 85px;
+    }
+
+    .top_about .shape {
+        display: none;
+    }
+
+    .ab_top .dot {
+        display: none;
+    }
+
+    .ab_left .dot {
+        display: none;
+    }
+
+    .top_about {
+        padding: 25px 16px;
+    }
+
+    .left_about {
+        padding: 25px 16px;
+        text-align: center !important;
+    }
+
+    .left_about .shape {
+        display: none;
+    }
+
+    .about_img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .inner_img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .right_about {
+        padding: 25px 16px;
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .right_about .shape {
+        display: none;
+    }
+
+    .ab_right .dot {
+        display: none;
+    }
+
+    .ab_bottom .dot {
+        display: none;
+    }
+
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .bottom_about {
+        background: #eeeeee;
+        padding: 25px 16px;
+        margin-top: 0px;
+    }
+
+    .header_service .cmn_span {
+        left: -35px !important;
+    }
+
+    .common_header h3::after {
+        left: 15px;
+    }
+
+    .header_service h3::after {
+        left: 50px !important;
+    }
+
+    .header_service h3::before {
+        right: 50px;
+    }
+
+    .ser_overly {
+        text-align: center;
+    }
+
+    .service_content h4 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .port_list button {
+        margin-bottom: 15px;
+    }
+
+    .header_port h3::before {
+        right: 40px;
+    }
+
+    .header_port h3 .cmn_span {
+        left: -32px !important;
+    }
+
+    .header_port h3::after {
+        left: 53px !important;
+    }
+
+    .count h4 {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        display: none;
+    }
+
+    .head_contct .cmn_span {
+        left: -15px !important;
+    }
+
+    .bt_top {
+        right: 10px !important;
+    }
+
+    .con_overly {
+        padding: 60px 15px;
+    }
+
+    .contact-form {
+        margin-top: 50px;
+    }
+
+    .footer_top {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    /* =============== All area end =============*/
+}
